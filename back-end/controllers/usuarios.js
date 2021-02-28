@@ -1,4 +1,3 @@
-const usuarios = require('../models/usuarios');
 const Usuario = require('../models/usuarios');
 
 module.exports = app => {
