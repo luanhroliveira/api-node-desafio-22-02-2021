@@ -16,6 +16,11 @@ Criar uma aplicação Node.js, no formato de API, aplicando os padrões REST que
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/luanhroliveira/assets/blob/main/modelo-conceitual-node-api-desafio-22-02-2021.PNG "Modelo conceitual")
 
+# Tecnologias utilizadas
+## Back end
+- Node.js
+- PostgreSql
+
 # Autor
 
 Luan Higor Ribeiro de Oliveira.
