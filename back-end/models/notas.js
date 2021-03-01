@@ -60,7 +60,6 @@ class Nota {
                 res.status(200).json(erro);
             };
         });
-
     }
 };
 
